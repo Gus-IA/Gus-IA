@@ -1,7 +1,7 @@
 # 👋 Hola, soy Gus
 
-🎓 Estudiante autodidacta en Machine Learning y Deep Learning 
-🤖 Enfocado en aprender y aplicar modelos de Deep Learning con Python  
+🎓 Estudiante autodidacta en IA y automatización.
+🤖 Enfocado en aprender y aplicar modelos usando Python.
 
 Actualmente estoy formándome de manera independiente a través de:
 - Cursos online
@@ -11,23 +11,31 @@ Actualmente estoy formándome de manera independiente a través de:
 ---
 
 ## 🧠 Áreas de interés
+- Agentes
+- RAQ
 - Deep Learning
 - Machine Learning
-- Computer Vision
-- Reinforcement learning
-- Agentes
+- n8n
+- LLM
 
 ---
 
 ## 🛠 Tecnologías y herramientas
 - Python
 - PyTorch
+- LangGraph
+- Langchain
+- Git y Github
+- VS Code
+- Numpy
+- Matplotlib
+- Pandas
 
 ---
 
 ## 🚀 Proyectos
 Aquí encontrarás proyectos relacionados con:
-- Implementación de modelos de Deep Learning
+- Implementación de modelos.
 - Experimentos y pruebas de conceptos aprendidos
 - Aplicación práctica de modelos en datasets reales
 
@@ -37,4 +45,4 @@ Aquí encontrarás proyectos relacionados con:
 
 ## 🎯 Objetivo
 Seguir desarrollando mis habilidades técnicas y, a medio plazo,  
-optar a una posición junior en Machine Learning / Data Science.
+optar a una posición junior en Machine Learning / Data Science / AI Automation.
