@@ -1,48 +1,51 @@
 # 👋 Hola, soy Gus
 
-🎓 Estudiante autodidacta en IA y automatización.
-🤖 Enfocado en aprender y aplicar modelos usando Python.
-
-Actualmente estoy formándome de manera independiente a través de:
-- Cursos online
-- Tutoriales técnicos
-- Proyectos prácticos y experimentación propia
-
----
-
-## 🧠 Áreas de interés
-- Agentes
-- RAG
-- Deep Learning
-- Machine Learning
-- n8n
-- LLM
-
----
-
-## 🛠 Tecnologías y herramientas
-- Python
-- PyTorch
-- LangGraph
-- Langchain
-- Git y Github
-- VS Code
-- Numpy
-- Matplotlib
-- Pandas
+🎓 Desarrollador autodidacta especializado en IA, LLMs, Machine Learning y sistemas RAG.  
+🤖 Construyo aplicaciones de IA end-to-end con Python — desde la ingesta de datos hasta el despliegue.
 
 ---
 
 ## 🚀 Proyectos
-Aquí encontrarás proyectos relacionados con:
-- Implementación de modelos.
-- Experimentos y pruebas de conceptos aprendidos
-- Aplicación práctica de modelos en datasets reales
 
-*(Los proyectos incluyen documentación y explicación de las decisiones tomadas.)*
+### 🤖 [ROS 2 Assistant](https://github.com/Gus-IA/ros2-assistant)
+Asistente Q&A basado en RAG para documentación de ROS 2. Proyecto final del LLM Zoomcamp 2026.  
+`Python` `PostgreSQL + PGVector` `Groq` `Streamlit` `Grafana` `Docker`
+
+---
+
+## 🧠 Áreas de interés
+- LLM
+- Machine Learning
+- Deep Learning
+- RAG y sistemas de recuperación
+- Agentes de IA
+- Reinforcement Learning
+- Robótica (ROS 2)
+
+---
+
+## 🛠 Stack
+- **Lenguajes:** Python
+- **IA/ML:** PyTorch, scikit-learn, sentence-transformers
+- **LLMs & RAG:** Groq, OpenAI, PGVector
+- **Bases de datos:** PostgreSQL
+- **Infraestructura:** Docker, Linux (Ubuntu), Git
+
+---
+
+## 📚 Aprendiendo actualmente
+- Machine Learning Zoomcamp (DataTalks.Club, sept. 2026)
+- Microsoft AZ-900 (Azure Fundamentals)
 
 ---
 
 ## 🎯 Objetivo
-Seguir desarrollando mis habilidades técnicas y, a medio plazo,  
-optar a una posición junior en Machine Learning / Data Science / AI Automation.
+Desarrollar mis habilidades técnicas y, a medio plazo,  
+optar a una posición junior en AI Engineer / ML Engineer,  
+con foco en aplicaciones LLM, sistemas RAG y robótica.
+
+---
+
+## 📜 Certificaciones
+- LLM Zoomcamp 2026 — DataTalks.Club *(pendiente)*
+- Microsoft AZ-900 *(en progreso)*
